@@ -8,4 +8,6 @@ My emacs configuration
 If you're using a Mac, get rid of any other emacs build you're using and go straight here https://vigou3.github.io/emacs-modified-macos/. 
 If you don't, you may have more installation ceremonials, keyboard hackery (the alt keys don't work right) to do before you can get going. 
 
+If you like emacs keystrokes and you're not using the Sierra version of Mac OS (I tested it on El Capitán and on Yosemite), you can have emacs keystrokes almost everywhere on the mac with Karabiner https://pqrs.org/osx/karabiner/. You will love this: it even enables you to operate the mouse cursor effectively from the keyboard.
+
 Inside .emacs.d is another README.md that you will find useful. It explains how you can use VIM keymaps but emacs functionality. This is great for evangelizing things like org-babel to VIM users. Sort of like telling piano players that they can play the violin, only using exactly all the finger motions they already know for the piano, and no more.
